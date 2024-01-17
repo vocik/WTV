@@ -21,3 +21,10 @@ php artisan db:seed
 7. Run the server: `php artisan serve`
 8. Open the website in your browser: http://localhost:8000
 9. Login with the email `test@example.com` and the password `test`
+
+
+Login:
+https://laravel.com/docs/10.x/starter-kits
+
+Generování Controllerů
+https://github.com/awais-vteams/laravel-crud-generator
